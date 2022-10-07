@@ -17,7 +17,6 @@ The model was trained on Fashion Mnist dataset. Below are some of the samples ge
 ![NADE_sample1](https://user-images.githubusercontent.com/80634226/194641421-4ac07dbf-f7fd-433e-930e-71003bb9b42a.png)
 ![NADE_sample2](https://user-images.githubusercontent.com/80634226/194641446-4b0ba55b-ff63-4d78-b3a6-2ddd8306106b.png)
 
-Paper on which the implementation and architecture are taken from
-https://arxiv.org/pdf/1605.02226.pdf
+Paper on which the implementation and architecture are based on https://arxiv.org/pdf/1605.02226.pdf
 
 
