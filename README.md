@@ -1,3 +1,4 @@
+# Neural Auto Regressive Model for categorical distribution
 
 NADE is an autoregressive model which uses a neural network to model the conditional distribution. 
 
@@ -12,7 +13,9 @@ Training and Testing loss graph:
 ![NADE_graph](https://user-images.githubusercontent.com/80634226/194641772-f0bd0239-f8d5-4d65-a9e8-afc28144e608.png)
 
 
-The model was trained on Fashion Mnist dataset. Below are some of the samples generated after training the model.
+The model was trained on Fashion Mnist dataset. Dataset was preprocessed such that each pixel takes a value from 0-9 rather than 0-255.
+
+Below are some of the samples generated after training the model. 
 
 ![NADE_sample1](https://user-images.githubusercontent.com/80634226/194641421-4ac07dbf-f7fd-433e-930e-71003bb9b42a.png)
 ![NADE_sample2](https://user-images.githubusercontent.com/80634226/194641446-4b0ba55b-ff63-4d78-b3a6-2ddd8306106b.png)
